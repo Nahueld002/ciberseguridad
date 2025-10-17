@@ -8,9 +8,9 @@ Repositorio dedicado a **organizar, mantener y recopilar información** sobre **
 
 Este proyecto busca consolidar el conocimiento esencial para construir una **visión integral de la seguridad**, reuniendo documentación, guías, buenas prácticas, normas y ejemplos prácticos sobre:
 
-- 🔐 **Seguridad de la información** y protección de datos  
-- 🧠 **Gobernanza, cumplimiento y gestión del riesgo**
+- 🔐 **Seguridad de la información** y protección de datos ()
 - 🏢 **Seguridad física y continuidad del negocio**  
+- 🧠 [**Gobernanza, cumplimiento y gestión del riesgo**](gobernanza/README.md)  
 - 🖥️ **Sistemas operativos** seguros (Linux, Windows)  
 - 🌐 **Seguridad en redes** (firewalls, segmentación, VPN, IDS/IPS)  
 - ☁️ **Seguridad en la nube** (AWS, Azure, GCP, ISO 27017/27018)    
