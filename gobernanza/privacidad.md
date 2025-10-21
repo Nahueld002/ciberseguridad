@@ -1,6 +1,6 @@
 # **Módulo 1**
 
-## Privacidad y Datos
+## Privacidad de Datos
 
 ### Mejores prácticas de Privacidad
 
