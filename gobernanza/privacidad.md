@@ -4,6 +4,8 @@
 
 ### Mejores prácticas de Privacidad
 
+La norma denominada **Principios de privacidad generalmente aceptados (GAPP)**
+
 #### Gestión
 
 La organización determina la documentación y establece los procesos y procedimientos de rendición de cuentas. Debe ser transparente para la revisión.
@@ -26,7 +28,7 @@ La organización solo debe recopilar la información necesaria y debe cumplir co
 
 #### Uso, retención y eliminación
 
-- Las organizaciones deben emplear la información autorizada por las personas. 
+- Las organizaciones deben emplear la información autorizada por las personas.
 - No deben retener más tiempo de lo necesario para los objetivos o según las disposiciones legales.
 - Una vez culminado el tiempo de uso o habiendo culminado el objetivo de la recopilación de datos, estos se deben eliminar.
 
@@ -42,14 +44,20 @@ Las organizaciones deben comunicar a las personas y recibir su autorización par
 
 #### Seguridad
 
+La organización debe proteger los activos de información de cualquier acceso no autorizado. Es recomendable el uso de doble autenticación para el inicio de sesión en la cuenta de un usuario.
 
 #### Calidad
 
+Se debe garantizar que toda la información esté completa, actualizada y sea exacta. No debe haber errores ni datos desactualizados, los formatos deben ser correctos.
 
 #### Supervisión y aplicación
 
+El monitoreo, la supervisión y auditoría para la revisión del cumplimiento de toda normativa de privacidad. Una organización debe realizar comprobaciones al azar para y aplicar cualquier procedimiento para abordar reclamos acerca de la privacidad. 
 
 ---
 
+### Trayectoria profesional en privacidad de datos
 
-
+- **Especialista en provacidad de datos**: Realizan tareas para garantizar el cumplimiento de leyes y normativas sobre privacidad. Realizan auditorías o evaluaciones de riesgos, investigan reclamos o incidentes sobre privacidad, recomiendan la aplicación de medidas para el fortalecimiento de los procedimientos.
+- **Analista de privacidad de datos**: Corresponde el trabajo técnico de asegurar la infraestructura de privacidad de la organización. Supervisan e implementan políticas para evitar accesos no autorizados y contribuyen en la investigación en casos de fuga de datos.
+- **Administrador de privacidad de datos**: Elaboración de los flujos de datos organizacionales, buscan e identifican los riesgos de privacidad y presentan las soluciones.

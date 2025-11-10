@@ -139,5 +139,3 @@ LLinux se ofrece comúnmente como parte del modelo IaaS (Infrastructure as a Ser
 
 - **Alpine Linux** – Ligera y segura, usada en contenedores (Docker).
 - **Void Linux** – Sistema independiente con su propio gestor de paquetes (xbps).
-
-
